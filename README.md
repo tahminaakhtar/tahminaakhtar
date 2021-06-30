@@ -6,5 +6,5 @@ I work as a front-end developer from Bangladesh. Intuitive problem-solving skill
 ### Find me
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/tahmina.rahman.9066/)
-
+https://github-readme-stats.vercel.app/api?username=tahminaakhtar&show_icons=true&theme=radical
 
