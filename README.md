@@ -11,8 +11,7 @@
 - ⚡ Fun fact **I love to pass time doing nothing 😅**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/nymul-islam-moon-5b7622200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/nymul-islam-moon-5b7622200/" height="30" width="40" /></a>
+<p align="center">
 <a href="https://fb.com/tahmina.rahman.9066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tahmina.rahman.9066" height="30" width="40" /></a>
 </p>
 
