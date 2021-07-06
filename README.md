@@ -30,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahminaakhtar&show_icons=true&locale=en" alt="tahminaakhtar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahminaakhtar&" alt="tahminaakhtar" /></p>
-![Tahmina Akhtar's's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahminaakhtar&show_icons=true&theme=radical)
