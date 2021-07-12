@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh. I work as a front-end developer from Bangladesh. Intuitive problem-solving skill. Proficient in Language : Html, Css, C, PHP. Database : MySQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. And also have quick learning skill.
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahminaakhtar&label=Profile%20views&color=0e75b6&style=flat" alt="tahminaakhtar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tahminaakhtar&label=Profile%20views&color=0e75b6&style=flat" alt="tahminaakhtar" /> </p>
 
 - 💬 Ask me about **Php, Html, CSS, JavaScript**
 
